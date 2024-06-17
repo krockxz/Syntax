@@ -228,7 +228,7 @@ function EditorBody({storeAt, index}) {
 
         var config = {
             method: "post",
-            url: "https://api.codex.jaagrav.in",
+            url: "https://syntax-api.onrender.com",
             headers: {
                 "Content-Type": "application/json",
             },

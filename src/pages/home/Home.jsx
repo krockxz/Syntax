@@ -256,7 +256,7 @@ function Home() {
                         <Button
                             className={classes.button}
                             onClick={() => {
-                                window.open("https://github.com/Jaagrav/CodeX-API", "_blank");
+                                window.open("https://github.com/krockxz/Syntax", "_blank");
                             }}
                         >
                             CodeX API
@@ -264,7 +264,7 @@ function Home() {
                         <Button
                             className={classes.button}
                             onClick={() => {
-                                window.open("https://github.com/Jaagrav/CodeX", "_blank");
+                                window.open("https://github.com/krockxz/Syntax", "_blank");
                             }}
                         >
                             GitHub
